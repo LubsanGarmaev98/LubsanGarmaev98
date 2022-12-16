@@ -1,5 +1,5 @@
-### Hi there 👋
-
+### - 👋 Hi, my name is Lubsan Garmaev, 24 y.o. 
+### - 📫 How to reach me: lubsan14091998@gmail.com
 <!--
 **LubsanGarmaev98/LubsanGarmaev98** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
