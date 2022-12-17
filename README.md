@@ -1,5 +1,6 @@
 ### - 👋 Hi, my name is Lubsan Garmaev, 24 y.o. 
 ### - 📫 How to reach me: lubsan14091998@gmail.com
+### - [![codewars](https://www.codewars.com/users/LubsanGarmaev98/badges/large)](https://www.codewars.com/users/LubsanGarmaev98) 
 <!--
 **LubsanGarmaev98/LubsanGarmaev98** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
